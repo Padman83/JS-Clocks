@@ -5,6 +5,3 @@
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### 🔗 Links:
-
-* [https://github.com/Padman83/js-clocks]
